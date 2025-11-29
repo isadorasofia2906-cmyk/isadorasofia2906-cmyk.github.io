@@ -71,3 +71,18 @@ margin-top: 10px; /* Adiciona uma margem de 10 pixels acima do subtítulo */
 font-size: 18px; /* Define o tamanho da fonte como 18 pixels */
 margin: 10px 0; /* Adiciona uma margem de 10 pixels em cima e embaixo, e 0 nas laterais */
 }
+
+footer {
+    background-color: #444;
+    color: rgb(206, 245, 179);
+    text-align: center;
+    padding: 20px;
+}
+
+
+footer p {
+    margin: 0;
+    font-family: "Libre Baskerville", serif;
+    font-size: 16px;
+    font-weight: 500;
+}
